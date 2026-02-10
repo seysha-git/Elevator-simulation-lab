@@ -1,4 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void check_valid_story();
+
+int set_start_story(int current_floor);

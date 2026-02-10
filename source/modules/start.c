@@ -1,5 +1,5 @@
 #include "start.h"
-void check_valid_story(){
-    printf("Checking valid story \n");
-}
+#include "../driver/elevio.h"
 
+
+int set_start_story(int current_floor);
